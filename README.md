@@ -1,5 +1,5 @@
 
 # Welcome!
-### Landingpage del gioco "Parolologo"
+### Landing page del gioco "Parolologo"
 
 https://gtoto007.github.io/parolologo-website
